@@ -1,6 +1,6 @@
 import React from 'react';
 import Input from '../../Components/Accessibility/Input';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import Button from '../../Components/Accessibility/Button';
 
 const LogIn = () => {
@@ -10,7 +10,7 @@ const LogIn = () => {
       <div className='flex flex-col w-2/3 gap-3'>
         <div className=' font-bold'>
           {/* Intro text */}
-          <h1 className='text-[42px] '>Welcome Back!</h1>
+          <h1 className='text-[28px] '>Welcome Back!</h1>
           <p>Good to have you back!</p>
         </div>
         <div>
